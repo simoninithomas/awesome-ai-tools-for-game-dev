@@ -23,7 +23,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ## Asset Generation 🪄
 ➡️ When you want to **create a 2D or 3D asset for your game**.
 
-- [Scenario.com](https://www.scenario.com/) (Proprietary, Subscription, Free): Generate assets such as textures, concept art, and background assets.
+- [Scenario.com](https://www.scenario.com/) (Proprietary, Sign Up, Free): Generate assets such as textures, concept art, and background assets.
 
 ## Texture Generation 🖼️🖌️
 ➡️ When you want to **generate textures for your assets**
@@ -35,32 +35,33 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ## Image Generation 🖼️🪄
 ➡️ When you want to creating pictures of suspects in a detective game.
 
-- [Midjourney](https://www.midjourney.com/home/) (Proprietary, Subscription, Free, Paid)
+- [Midjourney](https://www.midjourney.com/home/) (Proprietary, Sign Up, Free, Paid)
 
 - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Open Source, Free)
 
 ## Code Generation/Assistant 👩‍💻
 ➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
 
-- [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid, Subscription)
-- [Copilot](https://github.com/features/copilot) (Proprietary, Free, Paid, Subscription)
+- [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid,  Sign Up)
+- [Copilot](https://github.com/features/copilot) (Proprietary, Paid,  Sign Up)
+- [StarCoder](https://huggingface.co/bigcode/starcoder) (Open Source, Free, Sign Up)
 
 ## Animation Video Mocap 💃📹
 ➡️ You want to **generate 3D animations from a video you’ve made without a motion capture suit**.
 
-- [Plask](https://motion.plask.ai/) (Proprietary, Free, Paid, Subscription) : AI-powered Mocap
+- [Plask](https://motion.plask.ai/) (Proprietary, Free, Paid,  Sign Up) : AI-powered Mocap
 Animation Tool.
 
-- [RadicalMotion.com](https://radicalmotion.com/) (Proprietary, Free, Paid, Subscription)
+- [RadicalMotion.com](https://radicalmotion.com/) (Proprietary, Free, Paid,  Sign Up)
 
 
 ## Voice Generation 🗣️
 ➡️ You want to create **voice dialogues in my game using AI actors**.
 ➡️ [How does it work](https://huggingface.co/tasks/text-to-speech)
 
-- [Coqui Studio](https://coqui.ai/) (Subscription, Proprietary, Free): realistic, emotive text-to-speech through generative AI.
+- [Coqui Studio](https://coqui.ai/) (Sign Up, Proprietary, Free): realistic, emotive text-to-speech through generative AI.
 
-- [Replica Studios](https://replicastudios.com/) (Subscription, Proprietary, Free) : AI voice actors for games
+- [Replica Studios](https://replicastudios.com/) (Sign Up, Proprietary, Free) : AI voice actors for games
 
 ## Speech Recognition 💬
 ➡️ You want the player to be able to give orders using his voice.
@@ -72,5 +73,5 @@ Animation Tool.
 ➡️ You want your NPC to be able to have conversations with the player.
 ➡️ [How does it work](https://huggingface.co/tasks/conversational)
 
-- [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid, Subscription): Conversational model for chat-based interactions.
-- [HuggingChat 🤗](https://huggingface.co/chat/): (Open Source, Free, Subscription) Open-source conversational model for chat-based interactions.
+- [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid, Sign Up): Conversational model for chat-based interactions.
+- [HuggingChat 🤗](https://huggingface.co/chat/): (Open Source, Free, Sign Up) Open-source conversational model for chat-based interactions.
