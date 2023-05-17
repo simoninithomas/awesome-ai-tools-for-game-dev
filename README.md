@@ -32,9 +32,9 @@ Use cases: **generating textures for your assets**
 ## Image Generation 🖼️🪄
 Use cases: creating pictures of suspects in a detective game.
 
-- [Midjourney](https://www.midjourney.com/home/) (Proprietary, Subscription, Free, Paid)
-
 - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Open Source, Free)
+
+- [Midjourney](https://www.midjourney.com/home/) (Proprietary, Subscription, Free, Paid)
 
 ## Code Generation/Assistant 👩‍💻
 Use cases: I want **help in coding a function/ there’s a bug in my code** and I don’t understand why
