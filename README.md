@@ -42,11 +42,13 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ## Code Generation/Assistant 👩‍💻
 ➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
 
+
 - [StarCoder](https://huggingface.co/bigcode/starcoder) (Open Source, Free, Sign Up)
 
 - [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid,  Sign Up)
 
 - [Copilot](https://github.com/features/copilot) (Proprietary, Paid,  Sign Up)
+
 
 ## Animation Video Mocap 💃📹
 ➡️ You want to **generate 3D animations from a video you’ve made without a motion capture suit**.
@@ -61,9 +63,10 @@ Animation Tool.
 ➡️ You want to create **voice dialogues in my game using AI actors**.
 ➡️ [How does it work](https://huggingface.co/tasks/text-to-speech)
 
-- [Bark](https://github.com/suno-ai/bark) (Open Source): Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. 
 
 - [Coqui Studio](https://coqui.ai/) (Sign Up, Proprietary, Free): realistic, emotive text-to-speech through generative AI.
+
+- [Bark](https://github.com/suno-ai/bark) (Open Source): Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. 
 
 - [Replica Studios](https://replicastudios.com/) (Sign Up, Proprietary, Free): AI voice actors for games
 
@@ -82,3 +85,4 @@ Animation Tool.
 - [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid, Sign Up): Conversational model for chat-based interactions.
 
 - [HuggingChat 🤗](https://huggingface.co/chat/): (Open Source, Free, Sign Up): Open-source conversational model for chat-based interactions.
+
