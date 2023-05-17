@@ -42,9 +42,13 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ## Code Generation/Assistant 👩‍💻
 ➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
 
-- [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid,  Sign Up)
-- [Copilot](https://github.com/features/copilot) (Proprietary, Paid,  Sign Up)
+
 - [StarCoder](https://huggingface.co/bigcode/starcoder) (Open Source, Free, Sign Up)
+
+- [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid,  Sign Up)
+
+- [Copilot](https://github.com/features/copilot) (Proprietary, Paid,  Sign Up)
+
 
 ## Animation Video Mocap 💃📹
 ➡️ You want to **generate 3D animations from a video you’ve made without a motion capture suit**.
@@ -59,19 +63,26 @@ Animation Tool.
 ➡️ You want to create **voice dialogues in my game using AI actors**.
 ➡️ [How does it work](https://huggingface.co/tasks/text-to-speech)
 
+
 - [Coqui Studio](https://coqui.ai/) (Sign Up, Proprietary, Free): realistic, emotive text-to-speech through generative AI.
 
-- [Replica Studios](https://replicastudios.com/) (Sign Up, Proprietary, Free) : AI voice actors for games
+- [Bark](https://github.com/suno-ai/bark) (Open Source): Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. 
+
+- [Replica Studios](https://replicastudios.com/) (Sign Up, Proprietary, Free): AI voice actors for games
 
 ## Speech Recognition 💬
 ➡️ You want the player to be able to give orders using his voice.
 ➡️ [How does it work](https://huggingface.co/tasks/automatic-speech-recognition)
 
-- [OpenAI Whisper](https://huggingface.co/openai/whisper-base) : model for automatic speech recognition (ASR) and speech translation.
+- [OpenAI Whisper](https://huggingface.co/openai/whisper-base): model for automatic speech recognition (ASR) and speech translation.
+
+- [Facebook Wav2Vec2](https://huggingface.co/facebook/wav2vec2-large-xlsr-53): another model for multilingual automatic speech recognition (ASR).
 
 ## Conversational models
 ➡️ You want your NPC to be able to have conversations with the player.
 ➡️ [How does it work](https://huggingface.co/tasks/conversational)
 
 - [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid, Sign Up): Conversational model for chat-based interactions.
-- [HuggingChat 🤗](https://huggingface.co/chat/): (Open Source, Free, Sign Up) Open-source conversational model for chat-based interactions.
+
+- [HuggingChat 🤗](https://huggingface.co/chat/): (Open Source, Free, Sign Up): Open-source conversational model for chat-based interactions.
+
