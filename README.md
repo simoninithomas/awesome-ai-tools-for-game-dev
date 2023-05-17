@@ -8,6 +8,8 @@ By integrating them into your workflow, **you can save time, automate tasks, and
 
 Whether you're an indie developer or part of a studio, **this list provides cutting-edge AI tools to speed up your development, enabling you to create immersive games**. Discover the potential of AI in game development for greater efficiency and creativity.
 
+Don't forget to ⭐ start the repo, this helps us 🤗.
+
 You have other tools to add? **[Please contribute](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev/pulls)**
 
 ## Contents
