@@ -42,7 +42,10 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ## Code Generation/Assistant 👩‍💻
 ➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
 
+- [StarCoder](https://huggingface.co/bigcode/starcoder) (Open Source)
+
 - [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid, Subscription)
+
 - [Copilot](https://github.com/features/copilot) (Proprietary, Free, Paid, Subscription)
 
 ## Animation Video Mocap 💃📹
@@ -58,6 +61,8 @@ Animation Tool.
 ➡️ You want to create **voice dialogues in my game using AI actors**.
 ➡️ [How does it work](https://huggingface.co/tasks/text-to-speech)
 
+- [Bark](https://github.com/suno-ai/bark) (Open Source): Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. 
+
 - [Coqui Studio](https://coqui.ai/) (Subscription, Proprietary, Free): realistic, emotive text-to-speech through generative AI.
 
 - [Replica Studios](https://replicastudios.com/) (Subscription, Proprietary, Free) : AI voice actors for games
@@ -66,11 +71,15 @@ Animation Tool.
 ➡️ You want the player to be able to give orders using his voice.
 ➡️ [How does it work](https://huggingface.co/tasks/automatic-speech-recognition)
 
-- [OpenAI Whisper](https://huggingface.co/openai/whisper-base) : model for automatic speech recognition (ASR) and speech translation.
+- [OpenAI Whisper](https://huggingface.co/openai/whisper-base): model for multilingual automatic speech recognition (ASR) and speech translation.
+
+- [Facebook Wav2Vec2](https://huggingface.co/facebook/wav2vec2-large-xlsr-53): another model for multilingual automatic speech recognition (ASR).
 
 ## Conversational models
 ➡️ You want your NPC to be able to have conversations with the player.
 ➡️ [How does it work](https://huggingface.co/tasks/conversational)
 
-- [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid, Subscription): Conversational model for chat-based interactions.
 - [HuggingChat 🤗](https://huggingface.co/chat/): (Open Source, Free, Subscription) Open-source conversational model for chat-based interactions.
+
+- [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid, Subscription): Conversational model for chat-based interactions.
+
