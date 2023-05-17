@@ -11,39 +11,43 @@ Whether you're an indie developer or part of a studio, **this list provides cutt
 You have other tools to add? **[Please contribute](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev/pulls)**
 
 ## Contents
-- [Asset Generation](#asset-generation)
-- [Texture Generation]
-- [Image Generation]
-- [Code Generation/Assistant]
-- 
+- [Asset Generation](#asset-generation-)
+- [Texture Generation](#texture-generation-)
+- [Image Generation](#image-generation-)
+- [Code Generation/Assistant](#code-generationassistant-)
+- [Animation video Mocap](#animation-video-mocap-)
+- [Voice Generation](#voice-generation-%EF%B8%8F)
+- [Speech Recognition](#speech-recognition-)
+- [Conversational Models](#conversational-models)
 
 ## Asset Generation 🪄
-Uses cases: when you want to **create a 2D or 3D asset for your game**.
+➡️ When you want to **create a 2D or 3D asset for your game**.
 
 - [Scenario.com](https://www.scenario.com/) (Proprietary, Subscription, Free): Generate assets such as textures, concept art, and background assets.
 
 ## Texture Generation 🖼️🖌️
-Use cases: **generating textures for your assets**
+➡️ When you want to **generate textures for your assets**
 
 - [DreamTextures](https://github.com/carson-katri/dream-textures) (Open Source, Free): Create different types of textures with a **simple text prompt**.
 
 - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Open Source, Free)
 
 ## Image Generation 🖼️🪄
-Use cases: creating pictures of suspects in a detective game.
+➡️ When you want to creating pictures of suspects in a detective game.
 
 - [Midjourney](https://www.midjourney.com/home/) (Proprietary, Subscription, Free, Paid)
 
 - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Open Source, Free)
 
 ## Code Generation/Assistant 👩‍💻
-Use cases: I want **help in coding a function/ there’s a bug in my code** and I don’t understand why
+➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
 
 - [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid, Subscription)
 - [Copilot](https://github.com/features/copilot) (Proprietary, Free, Paid, Subscription)
 
 ## Animation Video Mocap 💃📹
-Use cases: I want to **generate 3D animations from a video I’ve made without a motion capture suit**.
+➡️ You want to **generate 3D animations from a video you’ve made without a motion capture suit**.
+
 - [Plask](https://motion.plask.ai/) (Proprietary, Free, Paid, Subscription) : AI-powered Mocap
 Animation Tool.
 
@@ -51,22 +55,22 @@ Animation Tool.
 
 
 ## Voice Generation 🗣️
-Use case: I want to create voice dialogues in my game.
-How does it works: [https://huggingface.co/tasks/text-to-speech](https://huggingface.co/tasks/text-to-speech)
+➡️ You want to create **voice dialogues in my game using AI actors**.
+➡️ [How does it work](https://huggingface.co/tasks/text-to-speech)
 
 - [Coqui Studio](https://coqui.ai/) (Subscription, Proprietary, Free): realistic, emotive text-to-speech through generative AI.
 
 - [Replica Studios](https://replicastudios.com/) (Subscription, Proprietary, Free) : AI voice actors for games
 
 ## Speech Recognition 💬
-Use cases: I want my player to be able to give orders using his voice.
-How does it works: [https://huggingface.co/tasks/automatic-speech-recognition](https://huggingface.co/tasks/automatic-speech-recognition)
+➡️ You want the player to be able to give orders using his voice.
+➡️ [How does it work](https://huggingface.co/tasks/automatic-speech-recognition)
 
 - [OpenAI Whisper](https://huggingface.co/openai/whisper-base) : model for automatic speech recognition (ASR) and speech translation.
 
 ## Conversational models
-Use cases: I want my NPC to be able to have conversations with the player.
-How it works: [https://huggingface.co/tasks/conversational](https://huggingface.co/tasks/conversational)
+➡️ You want your NPC to be able to have conversations with the player.
+➡️ [How does it work](https://huggingface.co/tasks/conversational)
 
 - [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid, Subscription): Conversational model for chat-based interactions.
 - [HuggingChat 🤗](https://huggingface.co/chat/): (Open Source, Free, Subscription) Open-source conversational model for chat-based interactions.
