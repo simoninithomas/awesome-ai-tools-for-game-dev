@@ -21,6 +21,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Voice Generation](#voice-generation-%EF%B8%8F)
 - [Speech Recognition](#speech-recognition-)
 - [Conversational Models](#conversational-models)
+- [Game Design](#game-design-)
 
 ## Asset Generation 🪄
 ➡️ When you want to **create a 2D or 3D asset for your game**.
@@ -88,3 +89,7 @@ Animation Tool.
 
 - [HuggingChat 🤗](https://huggingface.co/chat/): (Open Source, Free, Sign Up): Open-source conversational model for chat-based interactions.
 
+## Game Design 🎮
+➡️ You want to generate game mechanics, game ideas, or other other components of your game (characters, story, items, etc.).
+
+- [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Ideation and research tool for game designers and developers, combining text and image generation with AI-powered search and trends tools.
