@@ -22,6 +22,9 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Speech Recognition](#speech-recognition-)
 - [Conversational Models](#conversational-models)
 - [Game Design](#game-design-)
+- [AI NPC](#ai-npc)
+- [Python Librairies](#python-libraries)
+- [C# Librairies](#c-libraries)
 
 ## Asset Generation 🪄
 ➡️ When you want to **create a 2D or 3D asset for your game**.
@@ -42,16 +45,19 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Open Source, Free)
 
+- [Leonardo AI](https://app.leonardo.ai/) (Proprietary, Sign Up, Paid, Free Limited daily generations) 
+    
+- [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly) (Open Source, Apache 2, Free)
+
+
 ## Code Generation/Assistant 👩‍💻
 ➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
-
 
 - [StarCoder](https://huggingface.co/bigcode/starcoder) (Open Source, Free, Sign Up)
 
 - [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid,  Sign Up)
 
 - [Copilot](https://github.com/features/copilot) (Proprietary, Paid,  Sign Up)
-
 
 ## Animation Video Mocap 💃📹
 ➡️ You want to **generate 3D animations from a video you’ve made without a motion capture suit**.
@@ -89,7 +95,34 @@ Animation Tool.
 
 - [HuggingChat 🤗](https://huggingface.co/chat/): (Open Source, Free, Sign Up): Open-source conversational model for chat-based interactions.
 
+## Story Telling Models
+➡️ Want to make that crazy lore for your world with a lot of text?
+
+- [MPT-7B-StoryWriter-65k+](https://huggingface.co/mosaicml/mpt-7b-storywriter) (Open Source, Apache-2.0, Free)
+  
+- [Claude 100k](https://huggingface.co/mosaicml/mpt-7b-storywriter) (Proprietary, Paid, API access, Waitlisted)
+
+- [GTP-4 32k](https://platform.openai.com/docs/models/overview) (Proprietary, Paid, API access, Waitlisted)
+  
 ## Game Design 🎮
 ➡️ You want to generate game mechanics, game ideas, or other other components of your game (characters, story, items, etc.).
 
 - [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Ideation and research tool for game designers and developers, combining text and image generation with AI-powered search and trends tools.
+
+## AI NPC
+
+- [Inworld](https://inworld.ai) (Proprietary, Sign Up, Paid, Free Limited daily Interactions): Create a personality for your NPCs
+    
+## Python Libraries 
+
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) (Open Source, Apache 2, Free): Limit what a NPC could talk about
+
+- [Guidance](https://github.com/microsoft/guidance) (Open Source, MIT, Free): A library to help your LLM to understand your prompts
+     
+## C# Libraries
+
+- [Python.Net](https://github.com/pythonnet/pythonnet) (Open Source, MIT): Integrate Python libraries with .Net and .Net Libraries with Python
+
+- [Hugging Face API Unity Integration](https://github.com/huggingface/unity-api)(Open Source, Apache 2, Free): Integration for the Hugging Face Inference API and Unity
+
+     
