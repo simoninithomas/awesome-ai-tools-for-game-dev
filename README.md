@@ -111,7 +111,7 @@ Animation Tool.
 - [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Ideation and research tool for game designers and developers, combining text and image generation with AI-powered search and trends tools.
 
 ## Search Engine 🔍
-➡️ Want to search scripts generated using advanced LLMS like GPT-4? 
+➡️ Want to search scripts generated using advanced LLMs like GPT-4? 
 
 - [Haddock](https://www.haddock.ai/) (Proprietary, Sign Up, Free, Paid): Search AI-Generated Code for free from GPT-4, Copilot, etc. Generate code for gaming platforms such as Roblox, Unity, and Unreal. 
 
