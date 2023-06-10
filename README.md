@@ -23,8 +23,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Conversational Models](#conversational-models)
 - [Game Design](#game-design-)
 - [AI NPC](#ai-npc)
-- [Python Librairies](#python-libraries)
-- [C# Librairies](#c-libraries)
+- [Python Libraries](#python-libraries)
+- [C# Libraries](#c-libraries)
 
 ## Asset Generation 🪄
 ➡️ When you want to **create a 2D or 3D asset for your game**.
@@ -100,7 +100,7 @@ Animation Tool.
 
 - [MPT-7B-StoryWriter-65k+](https://huggingface.co/mosaicml/mpt-7b-storywriter) (Open Source, Apache-2.0, Free)
   
-- [Claude 100k](https://huggingface.co/mosaicml/mpt-7b-storywriter) (Proprietary, Paid, API access, Waitlisted)
+- [Claude 100k](https://www.anthropic.com/index/100k-context-windows) (Proprietary, Paid, API access, Waitlisted)
 
 - [GTP-4 32k](https://platform.openai.com/docs/models/overview) (Proprietary, Paid, API access, Waitlisted)
   
