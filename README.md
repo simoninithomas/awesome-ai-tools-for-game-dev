@@ -22,6 +22,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Speech Recognition](#speech-recognition-)
 - [Conversational Models](#conversational-models)
 - [Game Design](#game-design-)
+- [Search Engine](#search-engine-)
 - [AI NPC](#ai-npc)
 - [Python Libraries](#python-libraries)
 - [C# Libraries](#c-libraries)
@@ -108,6 +109,11 @@ Animation Tool.
 ➡️ You want to generate game mechanics, game ideas, or other other components of your game (characters, story, items, etc.).
 
 - [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Ideation and research tool for game designers and developers, combining text and image generation with AI-powered search and trends tools.
+
+## Search Engine 🔍
+➡️ Want to search scripts generated using advanced LLMs like GPT-4? 
+
+- [Haddock](https://www.haddock.ai/) (Proprietary, Sign Up, Free, Paid): Search AI-Generated Code for free from GPT-4, Copilot, etc. Generate code for gaming platforms such as Roblox, Unity, and Unreal. 
 
 ## AI NPC
 
