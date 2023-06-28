@@ -127,8 +127,9 @@ Animation Tool.
      
 ## C# Libraries
 
-- [Python.Net](https://github.com/pythonnet/pythonnet) (Open Source, MIT): Integrate Python libraries with .Net and .Net Libraries with Python
-
 - [Hugging Face API Unity Integration](https://github.com/huggingface/unity-api)(Open Source, Apache 2, Free): Integration for the Hugging Face Inference API and Unity
 
+- [UnityMLPySocket](https://github.com/dylanebert/UnityMLPySocket) (Open Source, Free): Perform local machine learning (ML) inference with Unity using a Python socket server. 
+
+- [Python.Net](https://github.com/pythonnet/pythonnet) (Open Source, MIT): Integrate Python libraries with .Net and .Net Libraries with Python
      
