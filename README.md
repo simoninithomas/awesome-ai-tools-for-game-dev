@@ -31,12 +31,13 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ➡️ When you want to **create a 2D or 3D asset for your game**.
 
 - [Scenario.com](https://www.scenario.com/) (Proprietary, Sign Up, Free): Generate assets such as textures, concept art, and background assets.
+- [Charmed Tilemap Generator](https://github.com/charmed-ai/tilemapgen) (Open Source, Free): Generate tilemaps for 2D levels.
 
 ## Texture Generation 🖼️🖌️
 ➡️ When you want to **generate textures for your assets**
 
+- [Charmed Texture Generator](https://charmed.ai/splash/texture-generator) (Proprietary, Sign Up, Free): Generate UV-unwrapped textures for complex 3D objects.
 - [DreamTextures](https://github.com/carson-katri/dream-textures) (Open Source, Free): Create different types of textures with a **simple text prompt**.
-
 - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Open Source, Free)
 
 ## Image Generation 🖼️🪄
