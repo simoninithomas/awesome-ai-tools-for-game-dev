@@ -32,6 +32,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Scenario.com](https://www.scenario.com/) (Proprietary, Sign Up, Free): Generate assets such as textures, concept art, and background assets.
 - [Charmed Tilemap Generator](https://github.com/charmed-ai/tilemapgen) (Open Source, Free): Generate tilemaps for 2D levels.
+- [Prometheanai](https://www.prometheanai.com/?via=topaitools) (Proprietary, Sign Up, Freemuim): Artificial Intelligence that generates virtual worlds.
+- [Ready player me](https://readyplayer.me/) (Proprietary, Sign Up, Free): Generate and integrate avatars into games.
 
 ## Texture Generation 🖼️🖌️
 ➡️ When you want to **generate textures for your assets**
