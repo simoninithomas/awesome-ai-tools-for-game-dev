@@ -121,6 +121,7 @@ Animation Tool.
 ## AI NPC
 
 - [Inworld](https://inworld.ai) (Proprietary, Sign Up, Paid, Free Limited daily Interactions): Create a personality for your NPCs
+- [eastworld](https://github.com/mluogh/eastworld) (Open Source, Apache 2, Free): Create NPCs with backstories, knowledge about your lore, dialects, etc. that come out-of-the-box with capabilites like taking actions in your world
     
 ## Python Libraries 
 
