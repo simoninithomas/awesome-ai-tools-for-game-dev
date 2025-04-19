@@ -132,6 +132,12 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Haddock](https://www.haddock.ai/) (Proprietary, Sign Up, Free, Paid): Search AI-Generated Code for free from GPT-4, Copilot, etc. Generate code for gaming platforms such as Roblox, Unity, and Unreal.
 
+## Marketing 
+
+➡️ Want help with your game's go-to-market strategy and marketing needs?
+
+- [Glitch](https://www.glitch.fun/) (Proprietary, Sign Up, Free, Paid): Marketing automation tools and chatbot designed to give actionable marketing advice.
+
 ## AI NPC
 
 - [Inworld](https://inworld.ai) (Proprietary, Sign Up, Paid, Free Limited daily Interactions): Create a personality for your NPCs
