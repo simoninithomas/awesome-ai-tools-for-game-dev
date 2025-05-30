@@ -71,6 +71,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Prompt to Game. Publish and share 2D or 3D game via url.
 
+- [Coplay](https://coplay.dev?ref=github&utm_source=simoninithomas_awesome_ai_tools_for_game_dev)  (Proprietary, Free, Paid, Sign Up): Native AI Assistant for Unity development. 
+
 ## Animation Video Mocap 💃📹
 
 ➡️ You want to **generate 3D animations from a video you’ve made without a motion capture suit**.
