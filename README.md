@@ -58,6 +58,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Leonardo AI](https://app.leonardo.ai/) (Proprietary, Sign Up, Paid, Free Limited daily generations)
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly) (Open Source, Apache 2, Free)
+- [Serplux](https://serplux.com/premium/agent/blog-image-generator) (Proprietary, Sign Up, Free, Paid)
+- 
 
 ## Code Generation/Assistant 👩‍💻
 
