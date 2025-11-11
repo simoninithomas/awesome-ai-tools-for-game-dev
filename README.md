@@ -59,6 +59,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly) (Open Source, Apache 2, Free)
 
+- [Gempix2 (Nano Banana 2)](https://gempix2.site) (Proprietary, Free, No Sign Up)
+
 ## Code Generation/Assistant 👩‍💻
 
 ➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
