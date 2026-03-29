@@ -59,6 +59,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly) (Open Source, Apache 2, Free)
 
+- [Oniichan](https://oniichan.app) (Proprietary, Sign Up, Free, Paid): AI manga generator, OC maker, and editor. Create full manga pages and original characters from text prompts using a custom finetuned model, with panel editing, inpainting, and a reusable character library.
+
 ## Code Generation/Assistant 👩‍💻
 
 ➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
