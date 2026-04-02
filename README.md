@@ -1,6 +1,7 @@
 <img src="./assets/img/cover.jpg" alt="Awesome AI Tools for Game Developers"/>
 
 # Awesome AI Tools for Game Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 
 This is a curated **collection of powerful AI tools that accelerate and enhance game development**. From asset and texture generation to voice and speech recognition, these tools streamline the creation process.
 
