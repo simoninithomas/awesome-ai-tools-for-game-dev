@@ -38,6 +38,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Ready player me](https://readyplayer.me/) (Proprietary, Sign Up, Free): Generate and integrate avatars into games.
 - [Genie](https://lumalabs.ai/genie) (Proprietary, Sign Up, Free): Generate 3D assets from text prompt.
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Generate 2D or 3D assets for free in prompt to game creator.
+- [CharGen](https://getchargen.com) (Proprietary, Free): AI character generator that creates portraits, backstories, and full character sheets for DnD, anime, fantasy, and game characters.
 
 ## Texture Generation 🖼️🖌️
 
@@ -70,6 +71,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Copilot](https://github.com/features/copilot) (Proprietary, Paid, Sign Up)
 
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Prompt to Game. Publish and share 2D or 3D game via url.
+- [CharGen](https://getchargen.com) (Proprietary, Free): AI character generator that creates portraits, backstories, and full character sheets for DnD, anime, fantasy, and game characters.
 
 ## Animation Video Mocap 💃📹
 
@@ -125,6 +127,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Ideation and research tool for game designers and developers, combining text and image generation with AI-powered search and trends tools.
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Create via prompt to game. Then publish and share your 2D or 3D game via url (host for free).
+- [CharGen](https://getchargen.com) (Proprietary, Free): AI character generator that creates portraits, backstories, and full character sheets for DnD, anime, fantasy, and game characters.
 
 ## Search Engine 🔍
 
