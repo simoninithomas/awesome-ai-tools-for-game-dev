@@ -12,6 +12,7 @@ Don't forget to ⭐ start the repo, this helps us 🤗.
 
 You have other tools to add? **[Please contribute](https://github.com/simoninithomas/awesome-ai-tools-for-game-dev/pulls)**
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for automated task orchestration. Applicable to game dev AI pipeline automation. MIT licensed.
 ## Contents
 
 - [Asset Generation](#asset-generation-)
