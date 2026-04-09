@@ -38,6 +38,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Ready player me](https://readyplayer.me/) (Proprietary, Sign Up, Free): Generate and integrate avatars into games.
 - [Genie](https://lumalabs.ai/genie) (Proprietary, Sign Up, Free): Generate 3D assets from text prompt.
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Generate 2D or 3D assets for free in prompt to game creator.
+- [SpriteCook](https://www.spritecook.ai) (Proprietary, Sign Up, Free): Generate and animate pixel art sprites from text prompts.
 
 ## Texture Generation 🖼️🖌️
 
