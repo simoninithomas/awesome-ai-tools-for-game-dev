@@ -144,6 +144,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Guidance](https://github.com/microsoft/guidance) (Open Source, MIT, Free): A library to help your LLM to understand your prompts
 
 ## C# Libraries
+search
 
 - [Hugging Face API Unity Integration](https://github.com/huggingface/unity-api)(Open Source, Apache 2, Free): Integration for the Hugging Face Inference API and Unity
 
