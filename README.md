@@ -71,6 +71,10 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Prompt to Game. Publish and share 2D or 3D game via url.
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) (Open Source, Free) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) (Open Source, Free) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
+
 ## Animation Video Mocap 💃📹
 
 ➡️ You want to **generate 3D animations from a video you’ve made without a motion capture suit**.
