@@ -150,3 +150,6 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [UnityMLPySocket](https://github.com/dylanebert/UnityMLPySocket) (Open Source, Free): Perform local machine learning (ML) inference with Unity using a Python socket server.
 
 - [Python.Net](https://github.com/pythonnet/pythonnet) (Open Source, MIT): Integrate Python libraries with .Net and .Net Libraries with Python
+
+- [theihtisham/agent-shadow-brain](https://github.com/theihtisham/agent-shadow-brain): Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. TypeScript/Node.js. MIT licensed.
+- [theihtisham/omni-skills-forge](https://github.com/theihtisham/omni-skills-forge): 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. TypeScript/Node.js. MIT licensed.
