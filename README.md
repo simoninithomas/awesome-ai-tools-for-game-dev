@@ -15,6 +15,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ## Contents
 
 - [Asset Generation](#asset-generation-)
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - [Texture Generation](#texture-generation-)
 - [Image Generation](#image-generation-)
 - [Code Generation/Assistant](#code-generationassistant-)
