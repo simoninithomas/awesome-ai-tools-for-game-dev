@@ -59,6 +59,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly) (Open Source, Apache 2, Free)
 
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) (Open Source, MIT, Free) - MCP server routing image generation prompts across 30+ models (Flux, DALL-E, Stable Diffusion, Ideogram). Zero API key required for first run. `npm install -g prompt-to-asset`
+
 ## Code Generation/Assistant 👩‍💻
 
 ➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
