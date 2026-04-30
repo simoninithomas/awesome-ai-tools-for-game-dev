@@ -14,6 +14,9 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 ## Contents
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) — 🤖 AI 监控 AI。全球首个由 AI 自身驱动开发的 Agent 监控系统。Vue3 前端 + Node.js 后端，开箱即用，Demo → http://47.109.47.116/ ![Dashboard](https://raw.githubusercontent.com/flik2002/openclaw-monitor-frontend/main/Openclaw%20Monitor.jpg)
+
+
 - [Asset Generation](#asset-generation-)
 - [Texture Generation](#texture-generation-)
 - [Image Generation](#image-generation-)
