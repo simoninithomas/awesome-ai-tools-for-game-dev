@@ -37,6 +37,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Prometheanai](https://www.prometheanai.com/?via=topaitools) (Proprietary, Sign Up, Freemuim): Artificial Intelligence that generates virtual worlds.
 - [Ready player me](https://readyplayer.me/) (Proprietary, Sign Up, Free): Generate and integrate avatars into games.
 - [Genie](https://lumalabs.ai/genie) (Proprietary, Sign Up, Free): Generate 3D assets from text prompt.
+- [igly.ai](https://igly.ai) (Proprietary, Sign Up, Free): Edit and polish 2D game assets with background removal, inpainting, upscaling, and generative fill.
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Generate 2D or 3D assets for free in prompt to game creator.
 
 ## Texture Generation 🖼️🖌️
