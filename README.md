@@ -131,6 +131,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ➡️ Want to search scripts generated using advanced LLMs like GPT-4?
 
 - [Haddock](https://www.haddock.ai/) (Proprietary, Sign Up, Free, Paid): Search AI-Generated Code for free from GPT-4, Copilot, etc. Generate code for gaming platforms such as Roblox, Unity, and Unreal.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) (Free MCP, Paid x402): Trust scoring for AI agent wallets on Solana. Verify agent identity before x402 micropayments for compute or game assets. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## AI NPC
 
