@@ -71,6 +71,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Prompt to Game. Publish and share 2D or 3D game via url.
 
+- [Roblox GUI Maker](https://robloxguimaker.dev/) (Proprietary, Free): Generate Roblox Studio GUI layouts and Lua starter code for menus, HUDs, shops, and inventory screens from a text prompt.
+
 ## Animation Video Mocap 💃📹
 
 ➡️ You want to **generate 3D animations from a video you’ve made without a motion capture suit**.
