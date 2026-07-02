@@ -150,3 +150,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [UnityMLPySocket](https://github.com/dylanebert/UnityMLPySocket) (Open Source, Free): Perform local machine learning (ML) inference with Unity using a Python socket server.
 
 - [Python.Net](https://github.com/pythonnet/pythonnet) (Open Source, MIT): Integrate Python libraries with .Net and .Net Libraries with Python
+
+## Related Resources
+
+- [Skill Hub](https://skill.442595.xyz/) - AI Agent Skills Navigator with 5,000+ skills across 22 categories. Discover agent skills and AI tools for code generation, game development, and creative workflows. [GitHub](https://github.com/rdone4425/skill)
