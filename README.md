@@ -1,5 +1,7 @@
 <img src="./assets/img/cover.jpg" alt="Awesome AI Tools for Game Developers"/>
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 # Awesome AI Tools for Game Developers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This is a curated **collection of powerful AI tools that accelerate and enhance game development**. From asset and texture generation to voice and speech recognition, these tools streamline the creation process.
