@@ -150,3 +150,4 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [UnityMLPySocket](https://github.com/dylanebert/UnityMLPySocket) (Open Source, Free): Perform local machine learning (ML) inference with Unity using a Python socket server.
 
 - [Python.Net](https://github.com/pythonnet/pythonnet) (Open Source, MIT): Integrate Python libraries with .Net and .Net Libraries with Python
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
