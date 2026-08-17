@@ -38,6 +38,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Ready player me](https://readyplayer.me/) (Proprietary, Sign Up, Free): Generate and integrate avatars into games.
 - [Genie](https://lumalabs.ai/genie) (Proprietary, Sign Up, Free): Generate 3D assets from text prompt.
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Generate 2D or 3D assets for free in prompt to game creator.
+- [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Generate game-ready sprites, icons, UI, textures, music, 3D models and video, in 30+ art styles or matched to your own style references. MCP server, REST API and Unity plugin.
 
 ## Texture Generation 🖼️🖌️
 
@@ -123,7 +124,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 ➡️ You want to generate game mechanics, game ideas, or other other components of your game (characters, story, items, etc.).
 
-- [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Ideation and research tool for game designers and developers, combining text and image generation with AI-powered search and trends tools.
+- [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Game Ideator that generates game concepts from keywords, themes or existing titles, plus an AI game design document editor that embeds generated assets in the doc.
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Create via prompt to game. Then publish and share your 2D or 3D game via url (host for free).
 
 ## Search Engine 🔍
