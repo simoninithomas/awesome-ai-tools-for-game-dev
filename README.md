@@ -125,6 +125,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Ideation and research tool for game designers and developers, combining text and image generation with AI-powered search and trends tools.
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Create via prompt to game. Then publish and share your 2D or 3D game via url (host for free).
+- [Summoned Games](https://summoned.games) (Proprietary, Sign Up, Free): Prompt to game through your own coding agent (Claude Code, Codex, any MCP client). The platform hosts the result with leaderboards, save data and up to 16 player multiplayer, and publishes it as a browser game anyone can play without an account.
 
 ## Search Engine 🔍
 
