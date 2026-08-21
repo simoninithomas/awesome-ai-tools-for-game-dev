@@ -136,6 +136,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Inworld](https://inworld.ai) (Proprietary, Sign Up, Paid, Free Limited daily Interactions): Create a personality for your NPCs
 - [eastworld](https://github.com/mluogh/eastworld) (Open Source, Apache 2, Free): Create NPCs with backstories, knowledge about your lore, dialects, etc. that come out-of-the-box with capabilites like taking actions in your world
+- [Cortex](https://cortex-rbx.github.io/) (Proprietary, Sign Up, Free during beta): Drop AI into any part of a Roblox game — dialogue, adaptive quests, generated items & lore, and chat moderation — with one request from a server Script; pay in Robux.
 
 ## Python Libraries
 
