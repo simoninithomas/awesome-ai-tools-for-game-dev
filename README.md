@@ -136,6 +136,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Inworld](https://inworld.ai) (Proprietary, Sign Up, Paid, Free Limited daily Interactions): Create a personality for your NPCs
 - [eastworld](https://github.com/mluogh/eastworld) (Open Source, Apache 2, Free): Create NPCs with backstories, knowledge about your lore, dialects, etc. that come out-of-the-box with capabilites like taking actions in your world
+- [Cortex](https://github.com/cortex-rbx/roblox-ai-kit) (Open Source SDK, Free Beta, Paid): Drop-in AI NPCs for Roblox with per-player memory, moderation and rate-limiting built into the open-source Lua SDK; a talking NPC in ~5 lines.
 
 ## Python Libraries
 
