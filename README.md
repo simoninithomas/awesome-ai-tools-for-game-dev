@@ -59,6 +59,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly) (Open Source, Apache 2, Free)
 
+- [AI Image](https://aiimage.com) (Proprietary, Sign Up, Free Trial, Paid): Generate and edit images from prompts for character concepts and scene illustrations.
+
 ## Code Generation/Assistant 👩‍💻
 
 ➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
