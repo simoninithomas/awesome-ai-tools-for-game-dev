@@ -136,6 +136,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Inworld](https://inworld.ai) (Proprietary, Sign Up, Paid, Free Limited daily Interactions): Create a personality for your NPCs
 - [eastworld](https://github.com/mluogh/eastworld) (Open Source, Apache 2, Free): Create NPCs with backstories, knowledge about your lore, dialects, etc. that come out-of-the-box with capabilites like taking actions in your world
+- [NobodyWho](https://github.com/nobodywho-ooo/nobodywho) (Open Source, EUPL-1.2, Free): Run local LLMs on-device for NPC dialogue directly in your game — bindings for Godot, Flutter, React Native and Swift, with streaming, tool calling, structured output, plus built-in Whisper speech-to-text and text-to-speech. No API keys, no server.
 
 ## Python Libraries
 
