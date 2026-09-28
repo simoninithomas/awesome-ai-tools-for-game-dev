@@ -47,7 +47,9 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [DreamTextures](https://github.com/carson-katri/dream-textures) (Open Source, Free): Create different types of textures with a **simple text prompt**.
 - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Open Source, Free)
 
-## Image Generation 🖼️🪄
+## Image Generation
+- [Raphael AI](https://raphael.app) - Free unlimited AI image generator for concept art and game assets.
+ 🖼️🪄
 
 ➡️ When you want to creating pictures of suspects in a detective game.
 
