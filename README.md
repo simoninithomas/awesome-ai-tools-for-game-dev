@@ -131,6 +131,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ➡️ Want to search scripts generated using advanced LLMs like GPT-4?
 
 - [Haddock](https://www.haddock.ai/) (Proprietary, Sign Up, Free, Paid): Search AI-Generated Code for free from GPT-4, Copilot, etc. Generate code for gaming platforms such as Roblox, Unity, and Unreal.
+- [StarterLoot](https://starterloot.com/) (Proprietary, No Sign Up, Free): Free directory of 80+ beginner friendly AI game dev tools for art, code, audio and more, plus guides like Godot vs Unity.
 
 ## AI NPC
 
