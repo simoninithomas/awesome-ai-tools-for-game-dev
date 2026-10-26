@@ -38,6 +38,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Ready player me](https://readyplayer.me/) (Proprietary, Sign Up, Free): Generate and integrate avatars into games.
 - [Genie](https://lumalabs.ai/genie) (Proprietary, Sign Up, Free): Generate 3D assets from text prompt.
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Generate 2D or 3D assets for free in prompt to game creator.
+- [Sculptor](https://aisculptor.io/) (Proprietary, Sign Up, Freemium): Generate a 3D model from a text prompt or a single photo. Exports GLB for engines and STL for printing, and auto-rigs humanoid characters with walk and run cycles.
 
 ## Texture Generation 🖼️🖌️
 
