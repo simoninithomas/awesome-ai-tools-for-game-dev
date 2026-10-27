@@ -23,6 +23,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Speech Recognition](#speech-recognition-)
 - [Conversational Models](#conversational-models)
 - [Game Design](#game-design-)
+- [Directories & References](#directories--references-)
 - [Search Engine](#search-engine-)
 - [AI NPC](#ai-npc)
 - [Python Libraries](#python-libraries)
@@ -125,6 +126,12 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Ideation and research tool for game designers and developers, combining text and image generation with AI-powered search and trends tools.
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Create via prompt to game. Then publish and share your 2D or 3D game via url (host for free).
+
+## Directories & References 📚
+
+➡️ Want a **reference that compares AI game-dev tools** (pricing, commercial-use terms, output ownership) before you commit?
+
+- [RespawnStack](https://respawnstack.com) (Free): Free reference comparing AI game-dev tools on pricing, commercial-use terms, and output ownership.
 
 ## Search Engine 🔍
 
