@@ -51,6 +51,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 ➡️ When you want to creating pictures of suspects in a detective game.
 
+- [Breatic](https://github.com/orime-org/breatic) - Collaborative image-generation canvas with shared briefs and references for visual-asset iteration (Source-available custom license; storage and model services configured separately).
 - [Midjourney](https://www.midjourney.com/home/) (Proprietary, Sign Up, Free, Paid)
 
 - [Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) (Open Source, Free)
