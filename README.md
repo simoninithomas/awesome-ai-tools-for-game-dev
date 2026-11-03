@@ -71,6 +71,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Prompt to Game. Publish and share 2D or 3D game via url.
 
+- [Ziva.sh](https://ziva.sh) (Proprietary, Sign Up): Godot editor AI agent that edits scenes and scripts, reads Godot errors, runs scenes, and exposes local Godot tools to MCP clients such as Cursor and Claude Code.
+
 ## Animation Video Mocap 💃📹
 
 ➡️ You want to **generate 3D animations from a video you’ve made without a motion capture suit**.
