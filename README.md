@@ -85,11 +85,9 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ➡️ You want to create **voice dialogues in my game using AI actors**.
 ➡️ [How does it work](https://huggingface.co/tasks/text-to-speech)
 
-- [Coqui Studio](https://coqui.ai/) (Sign Up, Proprietary, Free): realistic, emotive text-to-speech through generative AI.
-
 - [Bark](https://github.com/suno-ai/bark) (Open Source): Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects.
 
-- [Replica Studios](https://replicastudios.com/) (Sign Up, Proprietary, Free): AI voice actors for games
+- [QuickMatch](https://quickmatch.si/tools/ai-voices-npc-dialogue/) (Proprietary, Free): Comparison of AI voice and NPC dialogue tools for games.
 
 ## Speech Recognition 💬
 
@@ -128,9 +126,9 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 ## Search Engine 🔍
 
-➡️ Want to search scripts generated using advanced LLMs like GPT-4?
+➡️ Want help finding AI coding tools for game engines?
 
-- [Haddock](https://www.haddock.ai/) (Proprietary, Sign Up, Free, Paid): Search AI-Generated Code for free from GPT-4, Copilot, etc. Generate code for gaming platforms such as Roblox, Unity, and Unreal.
+- [QuickMatch](https://quickmatch.si/tools/ai-coding-for-game-engines/) (Proprietary, Free): Comparison of AI coding assistants for Godot, Unity, Unreal, and Roblox.
 
 ## AI NPC
 
