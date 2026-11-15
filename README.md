@@ -131,6 +131,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ➡️ Want to search scripts generated using advanced LLMs like GPT-4?
 
 - [Haddock](https://www.haddock.ai/) (Proprietary, Sign Up, Free, Paid): Search AI-Generated Code for free from GPT-4, Copilot, etc. Generate code for gaming platforms such as Roblox, Unity, and Unreal.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) (Free, Remote MCP): Free remote MCP server and live-music venue directory across the US and Canada for AI assistants.
 
 ## AI NPC
 
