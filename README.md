@@ -37,6 +37,9 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Prometheanai](https://www.prometheanai.com/?via=topaitools) (Proprietary, Sign Up, Freemuim): Artificial Intelligence that generates virtual worlds.
 - [Ready player me](https://readyplayer.me/) (Proprietary, Sign Up, Free): Generate and integrate avatars into games.
 - [Genie](https://lumalabs.ai/genie) (Proprietary, Sign Up, Free): Generate 3D assets from text prompt.
+- [Astra 3D Prompts](https://astra3d.app/prompts) (Proprietary, Free): Curated library of 220+ GPT-6 Astra 3D prompts with Blender, Three.js, and Tripo mesh workflows.
+- [Marble 3D AI](https://www.marble3dai.com/) (Proprietary, Sign Up, Freemium): Browser image-to-3D generator powered by Hunyuan 3.1 Pro, TRELLIS 2, and Rodin Gen-2 with PBR GLB/OBJ/USDZ and watertight STL export.
+- [Ai3DSculpt](https://ai3dsculpt.com/png-to-3d) (Proprietary, Sign Up, Freemium): Turn PNG concept art or photos into 3D-printable watertight manifold STL meshes (20 free signup credits).
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Generate 2D or 3D assets for free in prompt to game creator.
 
 ## Texture Generation 🖼️🖌️
