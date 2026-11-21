@@ -69,6 +69,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Copilot](https://github.com/features/copilot) (Proprietary, Paid, Sign Up)
 
+- [Genex](https://github.com/genex-games/genex-desktop) (Open Source, MIT, Free): Desktop app where AI agents (Claude Code, Codex, Antigravity with Gemini models, OpenCode or local models) build, play-test and publish games in Unreal Engine, Unity, Godot, Roblox or Three.js.
+
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Prompt to Game. Publish and share 2D or 3D game via url.
 
 ## Animation Video Mocap 💃📹
