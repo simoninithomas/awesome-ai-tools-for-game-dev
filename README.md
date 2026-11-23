@@ -58,6 +58,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Leonardo AI](https://app.leonardo.ai/) (Proprietary, Sign Up, Paid, Free Limited daily generations)
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly) (Open Source, Apache 2, Free)
+- [Free Image to Video](https://freeimagetovideo.ai/) - Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark.
 
 ## Code Generation/Assistant 👩‍💻
 
