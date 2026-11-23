@@ -125,6 +125,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [Ludo.ai](https://ludo.ai/) (Proprietary, Sign Up, Free, Paid): Ideation and research tool for game designers and developers, combining text and image generation with AI-powered search and trends tools.
 - [Rosebud AI](https://https://play.rosebud.ai/home) (Proprietary, Sign Up, Free): Create via prompt to game. Then publish and share your 2D or 3D game via url (host for free).
+- [CreateWorld](https://github.com/Leizhidong-creator/CreateWorld) (Proprietary, Free): From words to worlds — turn a written world idea into a producible, playable 2D pixel narrative game brief. Website: https://createworld.games
 
 ## Search Engine 🔍
 
