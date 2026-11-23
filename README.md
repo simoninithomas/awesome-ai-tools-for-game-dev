@@ -59,6 +59,8 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly) (Open Source, Apache 2, Free)
 
+- [Kavel](https://www.kavel.ai/) (Free, No Account Required) - Kavel is a free AI video generator and AI image generator — 4K clips with sound, and images you can run without an account or a card.
+
 ## Code Generation/Assistant 👩‍💻
 
 ➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
