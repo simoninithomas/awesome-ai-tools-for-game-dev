@@ -58,6 +58,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Leonardo AI](https://app.leonardo.ai/) (Proprietary, Sign Up, Paid, Free Limited daily generations)
 
 - [ControlNet](https://github.com/lllyasviel/ControlNet-v1-1-nightly) (Open Source, Apache 2, Free)
+- [CreoArt](https://creoart.app/pay-as-you-go-ai-generator) - Pay-as-you-go private AI image and video studio uniting 45 flagship models (FLUX.2, GPT Image 2.6, Seedream 5.5, Kling 4.0, Seedance 2.5, Veo 3.1) under never-expiring credits, plus a free browser-local WebGPU PSD layer editor.
 
 ## Code Generation/Assistant 👩‍💻
 
