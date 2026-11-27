@@ -64,6 +64,7 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 ➡️ When you want **help in coding a function or there’s a bug in your code** and you want to know why.
 
 - [StarCoder](https://huggingface.co/bigcode/starcoder) (Open Source, Free, Sign Up)
+- [AshuTeacher](https://ashuteacher.vercel.app) - Free AI-powered learning PWA & Android app with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 
 - [ChatGPT](https://chat.openai.com/) (Proprietary, Free, Paid, Sign Up)
 
